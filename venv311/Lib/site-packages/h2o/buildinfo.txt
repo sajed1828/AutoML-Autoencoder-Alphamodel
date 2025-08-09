@@ -1,0 +1,1 @@
+versionFromGradle='3.46.0',projectVersion='3.46.0.7',branch='rel-3.46.0',lastCommitHash='479065fe4d09bf8f364b6cab45b54f9324ee1c1d',gitDescribe='479065fe4d',compiledOn='2025-03-27 16:02:26',compiledBy='root'
